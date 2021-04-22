@@ -1,2 +1,2 @@
-A simple profile card I found on the internet
+A simple profile card
 ![Image](./a.png)
